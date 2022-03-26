@@ -1,0 +1,13 @@
+{
+  "testEnvironment": "node",
+  "reporters": [
+    [
+      "<rootDir>/reporters/jest-reporter/index.ts",
+      {
+        "hello": "world",
+        "dmitrii": "abramov",
+        "christoph": "pojer"
+      }
+    ]
+  ]
+}

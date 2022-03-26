@@ -1,0 +1,12 @@
+{
+  "name": "testrail-reporter-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.19.2"
+  }
+}
